@@ -18,7 +18,7 @@ The core of our network lives on Discord. Join our community to collaborate on p
 * **Open Source Tools:** Developing public resources, scripts, and frameworks for the community.
 
 ### 🤝 Contributing
-Want to contribute to our repositories? Fork any of our public projects, open an issue, or submit a pull request. If you want to pitch a major community project, drop a message in the `#⫸╽ꜱᴛᴀꜰꜰ-ᴅɪꜱᴄᴜꜱꜱɪᴏɴꜱ` or support channels on our Discord.
+Want to contribute to our repositories? Fork any of our public projects, open an issue, or submit a pull request. If you want to pitch a major community project, drop a message in the `#⫸╽ᴅɪꜱᴄᴜꜱꜱɪᴏɴꜱ` or support channels on our Discord.
 
 ---
 *Operating securely. Coding efficiently.*
